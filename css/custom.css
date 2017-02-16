@@ -1,0 +1,25 @@
+html,body{
+	height: 100%;
+}
+.container{
+	background-image: url("../img/bg.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+	padding-top: 100px;
+}
+.center{
+	text-align: center;
+}
+.white{
+	color: blue;
+}
+p{
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+button{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
